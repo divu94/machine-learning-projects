@@ -4,6 +4,8 @@
 - Using Anaconda, Git, VS Code tools
 - Flowchart : whimsical.com
 - MLOps Tool : evidentlyai.com
+- MongoDB : https://www.mongodb.com/
+
 
 ## Git commands
 
